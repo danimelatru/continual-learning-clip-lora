@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.png
+*.pdf
+*.pth
+*.ckpt
+checkpoints/
+results/
+logs/
+slurm-*.out
+.ipynb_checkpoints/
+
